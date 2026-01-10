@@ -45,6 +45,14 @@
 
 ---
 
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/pranav-kapale-6b7077176/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
+<a href="mailto:pranavkapale@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
+</p>
+
+---
+
 ### 🕒 Recent Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkapale&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
@@ -59,16 +67,4 @@
 
 <p align="center">
   <img width="800" src="https://raw.githubusercontent.com/pranavkapale/pranavkapale/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranav-kapale-6b7077176/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pranavkapale@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
