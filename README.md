@@ -62,9 +62,6 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/pranavkapale/pranavkapale/main/github-metrics.svg" alt="Detailed Metrics" />
-</p>
-
-<p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/pranavkapale/pranavkapale/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/pranavkapale/pranavkapale/main/github-metrics.svg" width="48%" alt="Detailed Metrics" />
+  <img src="https://raw.githubusercontent.com/pranavkapale/pranavkapale/main/profile-3d-contrib/profile-night-rainbow.svg" width="48%" alt="3D Contribution Graph" />
 </p>
