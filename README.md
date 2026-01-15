@@ -48,7 +48,7 @@
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-kapale-6b7077176/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
-<a href="mailto:pranavkapale@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
+<a href="mailto:pranavkapale11@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
 </p>
 
 ---
